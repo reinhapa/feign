@@ -39,6 +39,7 @@
     <module>jaxrs2</module>
     <module>java11</module>
     <module>jakarta</module>
+    <module>jakarta-jsonb</module>
     <module>json</module>
     <module>okhttp</module>
     <module>googlehttpclient</module>
